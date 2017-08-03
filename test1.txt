@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 92AE-4F98
+
+ Directory of C:\Projects\Git_local_repo
+
+08/03/2017  04:17 PM    <DIR>          .
+08/03/2017  04:17 PM    <DIR>          ..
+08/03/2017  04:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  54,772,654,080 bytes free
